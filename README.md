@@ -40,7 +40,7 @@ During development, I explored modern UI/UX ideas, implemented smooth animations
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/sameul-islam/fizz-landing-page
+   git clone https://github.com/sameul-islam/fizz-landing-page.git
    cd fizz-landing-page
    npm install
    npm run dev
